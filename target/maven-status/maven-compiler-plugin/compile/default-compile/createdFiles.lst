@@ -1,0 +1,15 @@
+phonebook\config\WebInitializer.class
+phonebook\entity\User.class
+phonebook\service\UserDetailsServiceImpl.class
+phonebook\entity\enums\UserRoleEnum.class
+phonebook\config\SecurityConfig.class
+phonebook\controller\LoginController.class
+phonebook\controller\DataController.class
+phonebook\Application.class
+phonebook\config\ApplicationConfig.class
+phonebook\service\PhoneNumberServiceImpl.class
+phonebook\service\PhoneNumberService.class
+phonebook\service\UserService.class
+phonebook\entity\PhoneNumber.class
+phonebook\controller\WebController.class
+phonebook\service\UserServiceImpl.class
